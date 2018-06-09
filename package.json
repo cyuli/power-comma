@@ -1,0 +1,19 @@
+{
+    "name": "power-comma",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/static/index.html",
+    "scripts": {
+        "serve": "parcel serve",
+        "build": "parcel build",
+        "watch": "parcel watch"
+    },
+    "dependencies": {
+        "parcel-bundler": "^1.8.1",
+        "react": "^16.4.0",
+        "react-dom": "^16.4.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
